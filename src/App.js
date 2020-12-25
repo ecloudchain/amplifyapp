@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          KabeerKKK
+          Check Master
         </a>
       </header>
     </div>
