@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Check Master
+          Check My Master
         </a>
       </header>
     </div>

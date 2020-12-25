@@ -7,7 +7,7 @@ class Header extends Component {
 
             <header className="headerc">
             <ul>
-            Hello, This is the mail section.
+            Hello, This is the mistake corrected.
             </ul>
             </header>
 
