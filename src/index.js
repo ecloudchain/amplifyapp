@@ -4,8 +4,15 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 import Counter from './components/counter'
 
+import Myapp from './components/myapp'
 
-ReactDOM.render(<Counter />, document.getElementById("root"));
+//import Myapp1 from './components/myapp'
+
+
+
+ReactDOM.render(<Myapp/>, document.getElementById("root"));
+
+
 
 
 /*
