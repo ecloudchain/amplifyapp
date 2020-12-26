@@ -3,14 +3,20 @@ import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.css';
 
 import Counter from './components/counter'
+import App from './App'
 
-import Myapp from './components/myapp'
+
+
+
+import Amplify from 'aws-amplify';
+import config from './aws-exports';
+Amplify.configure(config);
+
 
 //import Myapp1 from './components/myapp'
 
 
-
-ReactDOM.render(<Myapp/>, document.getElementById("root"));
+ReactDOM.render(<App/>, document.getElementById("root"));
 
 
 
